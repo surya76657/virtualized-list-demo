@@ -13,3 +13,4 @@ From your terminal:
 npm install
 npm run dev
 ```
+https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib
